@@ -1,4 +1,4 @@
-# Hi there, I'm [yingsiiiiii] 👋
+# Hi there, I'm yingsiiiiii 👋
 
 ### 🛰️ English-Chinese Interpreter | Technical Translator | Digital Nomad
 
@@ -12,9 +12,9 @@ I bridge the gap between languages and cultures, specializing in technical local
 - **Lifestyle & Corporate:** Worked with global brands like Blue Bottle Coffee and Hong Kong's major theme parks.
 
 ### 🧰 Digital Toolstack
-- **Productivity:** Todoist (Professional), Hubstaff, Google Workspace.
+- **Productivity:** Todoist, Google Workspace.
 - **Remote Ops:** Splashtop, AnyDesk, Mango Call System.
-- **Translation:** Markdown, [Trados,MemoQ].
+- **Translation:** Markdown, Trados, MemoQ.
 
 ### 📂 What I'm working on
 - 📖 Building a bilingual glossary for the medical industry.
