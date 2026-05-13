@@ -7,8 +7,8 @@ I bridge the gap between languages and cultures, specializing in technical local
 ---
 
 ### 🛠️ Expertise & Domains
-- **Tech & Mobile:** Experience with smartphone ecosystems (OPPO, Huawei) and remote collaboration tools.
-- **Industrial & Manufacturing:** Knowledge in specialized sectors like Hydro, Paper, and Leather manufacturing.
+- **Tech & Mobile:** Experience with remote collaboration tools.
+- **Industrial & Manufacturing:** Knowledge in specialized sectors like the medical field, hospitality, and Leather manufacturing.
 - **Lifestyle & Corporate:** Worked with global brands like Blue Bottle Coffee and Hong Kong's major theme parks.
 
 ### 🧰 Digital Toolstack
